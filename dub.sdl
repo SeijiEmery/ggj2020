@@ -1,0 +1,7 @@
+name "ggj2020"
+description "A minimal D application."
+authors "Seiji Emery"
+copyright "Copyright © 2020, Seiji Emery"
+license "MIT"
+dependency "raylib-d" version="~>2.5.0"
+targetPath "build"
